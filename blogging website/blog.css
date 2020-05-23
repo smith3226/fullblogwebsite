@@ -1,0 +1,139 @@
+
+
+.logo{
+	font-family: 'Acme', sans-serif;
+	font-family: 'Lobster', cursive;
+}
+
+.logo-text span{
+    color: black;
+}
+
+
+
+
+.dropdown{
+	margin-right: 600px;
+}
+
+
+.dropdown:hover{
+	color: red;
+
+}
+
+
+.jumbotron{
+	background-color: pink;
+	background-repeat: repeat;
+}
+	
+.display-3{
+	font-family: 'Acme', sans-serif;
+    font-family: 'Lobster', cursive;
+    font-family: 'Permanent Marker', cursive;
+}	
+
+
+
+
+
+.container{
+	margin-top: 8%;
+}
+
+
+
+
+
+
+.card{
+	overflow: hidden;
+}
+
+.card img{
+	transition: all 1.9s ease;
+}
+
+.card:hover img{
+	transform:scale(0.5);
+}
+	
+.card-img-top{
+   height: 380px;
+   width: 380px;
+   overflow: hidden;
+
+}	
+
+
+.style_text{
+	font-family: 'Lobster', cursive;
+	color: red;
+
+
+}
+
+
+
+footer{
+	background-color: black;
+	color: white;
+	text-align: center;
+	margin-top: 50px;
+	padding: 20px;
+}	
+
+#lmn a{
+	color: white;
+}
+
+
+.container1{
+	height:120px;
+	width: 120px;
+	border-radius: 50%;
+	margin-top: 8%;               
+	
+
+
+}
+
+hr{
+	border:dotted;
+}
+
+ 
+.list-group{
+	padding: 30px;
+}
+
+.list-group a:hover{
+	color: red;
+
+}
+
+.scrollspy-example{
+	margin:30px;
+	text-align: center;
+	 font-family: 'Acme'
+}
+
+.avatar {
+  vertical-align: middle;
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+}
+
+
+ .about_us{
+ 	margin:  20px;
+ 	font-family: 'Lobster', cursive;
+ }
+
+ mark{
+ 	color: red;
+ }
+
+

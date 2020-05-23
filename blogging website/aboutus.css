@@ -1,0 +1,31 @@
+.container1{
+	height:120px;
+	width: 120px;
+	border-radius: 50%;
+	margin-top: 8%;  
+	}
+
+
+.logo{
+	font-family: 'Acme', sans-serif;
+	font-family: 'Lobster', cursive;
+}
+
+.logo-text span{
+    color: black;
+}
+
+
+
+
+
+
+.dropdown{
+	margin-right: 600px;
+}
+
+
+.dropdown:hover{
+	color: red;
+
+}
